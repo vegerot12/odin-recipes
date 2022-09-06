@@ -1,0 +1,53 @@
+body{
+    padding: 10px;
+}
+
+header{
+    text-align: center;
+}
+
+
+.images{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+
+}
+
+.description{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+
+.ingredients{
+    display:block;
+    margin: auto;
+    border-radius: 10px;
+    border: solid 2px rosybrown;
+    width: fit-content;
+    padding: 10px;
+    
+}
+
+.recipeList{
+    display:block;
+    margin: auto;
+    border-radius: 10px;
+    border: solid 2px rosybrown;
+    width: fit-content;
+    padding: 10px;
+    
+}
+
+.steps{
+    padding-left: 150px;
+    padding-right: 150px;
+}
